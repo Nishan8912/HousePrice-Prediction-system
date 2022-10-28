@@ -1,6 +1,6 @@
 Flask
-sklean
 pandas
 matplotlib
 seaborn
 numpy
+scikit-learn
