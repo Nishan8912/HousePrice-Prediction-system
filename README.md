@@ -19,4 +19,5 @@
 
 ## Final output screenshot of the project is shown below:
 ![Screenshot 2022-10-28 172505](https://user-images.githubusercontent.com/85185243/198579349-9e4b861d-3c47-4d01-a864-61ce208d78eb.jpg)
+## deployed project link: https://bostonhome-price-pred.herokuapp.com/
 
